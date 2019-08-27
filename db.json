@@ -1,0 +1,77 @@
+{
+  "authors": [
+    {
+        "id": 1,
+        "name": "Charles",
+        "surname": "Dickens"
+    },
+    {
+        "id": 2,
+        "name": "Stephen",
+        "surname": "King"
+    },
+    {
+        "id": 3,
+        "name": "William",
+        "surname": "Shakespeare"
+    }
+  ],
+  "books": [
+    {
+        "id": 1,
+        "author_id": 1,
+        "title": "Oliver Twist",
+        "cover_image": "",
+        "pages": 234,
+        "releaseDate": "1839",
+        "isbn": "wt345"
+    },
+    {
+        "id": 2,
+        "author_id": 1,
+        "title": "Hard Times",
+        "cover_image": "",
+        "pages": 300,
+        "releaseDate": "1854",
+        "isbn": "jk654"
+    },
+    {
+        "id": 3,
+        "author_id": 3,
+        "title": "Hamlet",
+        "cover_image": "",
+        "pages": 160,
+        "releaseDate": "1603",
+        "isbn": "po789"
+    },
+    {
+        "id": 4,
+        "author_id": 2,
+        "title": "IT",
+        "cover_image": "",
+        "pages": 500,
+        "releaseDate": "2017",
+        "isbn": "yu098"
+    }
+  ],
+  "chapters": [
+    {
+        "id": 1,
+        "book_id": 1,
+        "title": "chapter 1",
+        "content": "Lorem ipsum"
+    },
+    {
+        "id": 2,
+        "book_id": 2,
+        "title": "chapter 1",
+        "content": "Lorem ipsum"
+    },
+    {
+        "id": 3,
+        "book_id": 1,
+        "title": "chapter 2",
+        "content": "Lorem ipsum"
+    }
+  ]
+}
