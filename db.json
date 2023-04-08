@@ -93,7 +93,17 @@
         "pages": 928,
         "releaseDate": "2009",
         "isbn": "al207"
-    }
+    },
+    {
+        "id": 9,
+        "author_id": 2,
+        "title": "The Mystery Monk",
+        "cover_image":
+          "https://media.istockphoto.com/id/154282280/photo/meditating-monk-in-a-sacred-shrine.jpg?b=1&s=170667a&w=0&k=20&c=VcEwhoZRG1WqGfAoMqJWeAjkABmPux-vGjn9yeeaIJU=",
+        "pages": 230,
+        "releaseDate": "2022",
+        "isbn": "ab127"
+      }
   ],
   "chapters": [
     {
